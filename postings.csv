@@ -1,2 +1,5 @@
-job             ,has_excel,quote,filename
-Campaign Analyst,TRUE     ,"Excellent computer skills, especially with Excel",postings/buddy-media-campaign-analyst.html
+company,job,has_excel,quote,filename
+Buddy Media,Campaign Analyst,TRUE,"Excellent computer skills, especially with Excel",postings/buddy-media-campaign-analyst.html
+Buddy Media,Performance Campaign Analyst,TRUE,"Excellent computer skills, especially with Excel",postings/buddy-media-performance-campaign-analyst.html
+Visible,Senior Business Analyst,TRUE,"Conducts and interprets quantitative and qualitative analysis of traditional and consumer generated media using computer skills including: Excel pivot table manipulation, attribute lookups, data sampling, competitive indexing. Writes Boolean-based searches and query strings to set parameters on the data universe relevant to business questions.",http://www.visibletechnologies.com/about/careers/senior-business-analyst/
+Offerpop,Business Analytics Manager,TRUE,"High level of computer skills including Google Analytics, Salesforce, Google Spreadsheets, Excel, Word, Outlook and PowerPoint. Experience with SaaS-based BI or analytics tools, such as GoodData or RJMetrics, is a plus.",postings/careers-facebook-twitter-marketing.html
